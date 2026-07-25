@@ -1,105 +1,21 @@
-<!-- Header Banner -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:58A6FF&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=0A66C2&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=1F2937">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=C9D1D9" alt="Radhe Patel — Data Engineering & Analysis" />
-</picture>
+# 💫 About Me:
+I'm a 4th-year Software Engineering student at Carleton University, expecting to graduate in April 2027. Over the course of four Government of Canada co-ops, I've built up hands-on experience in data engineering, data analysis, cybersecurity, and enterprise software — work that's earned me a Secret Security Clearance along the way. I'm currently a Data Solutions Engineer Intern at Immigration, Refugees and Citizenship Canada, and before that I worked as a Cyber Security Intern at the Department of National Defence, a Data Analysis/Visualization Intern at Shared Services Canada, a Data Analysis Intern at the Treasury Board of Canada Secretariat, and a Computer Architect Intern, also at Shared Services Canada.<br><br>What ties all of that together is a genuine interest in turning messy, raw data into clean systems people can actually trust and act on — whether that means automating a financial reporting pipeline, building a Power BI dashboard, or reviewing a database for security gaps. Right now I'm deepening my knowledge of Azure Data Factory, Databricks, and Snowflake, and I'm open to Data Engineering or Data Analysis internships and new-grad roles.
 
-<div align="center">
-<br/>
-<!-- Contact Links -->
-<a href="https://github.com/radhepatel55" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=%23ffffff" alt="GitHub" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/patelradhe/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=%23ffffff" alt="LinkedIn" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:radhe.v.patel555@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=%23ffffff" alt="Email" height="45"/>
-</a>
 
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/radhe_patel555) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/patelradhe/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:radhe.v.patel555@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=radhepatel55&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=radhepatel55&theme=swift&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=radhepatel55&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=radhepatel55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=radhepatel55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div display=flex >
-<div>
-<img src="https://github.com/radhepatel55.png" width="200" align="right" alt="Radhe Patel" style="border-radius: 12px;" />
-</div>
-<div>
-
-## About Me
-
-> $\color{#58A6FF}\textbf{\textsf{Turning messy data into clean, decision-ready systems.}}$
-
-I am a $\color{#58A6FF}\textbf{\textsf{Data Engineering \& Analysis enthusiast}}$ and a $\color{#58A6FF}\textbf{\textsf{Software Engineering student}}$ (4th year) at Carleton University, currently working as a Data Solutions Engineer Intern at Immigration, Refugees and Citizenship Canada. Across 4 Government of Canada co-ops, I've specialized in building automated data pipelines, dashboards, and enterprise software that turn raw data into decisions.
-
-- $\color{#58A6FF}\textbf{\textsf{Currently building:}}$ Automated data pipelines and Power BI dashboards for production reporting.
-- $\color{#58A6FF}\textbf{\textsf{Leveling up on:}}$ Azure Data Factory, Databricks, and Snowflake.
-- $\color{#58A6FF}\textbf{\textsf{Open to:}}$ Data Engineering / Data Analysis internships and new-grad roles.
-- $\color{#58A6FF}\textbf{\textsf{Fun fact:}}$ I've automated away more Excel busywork than I can count — and I'm not done yet.
-</div>
-
-<br clear="both"/>
-
-</div>
-
----
-
-## Tech Stack & Tools
-
-<div align="center">
-
-| Core Stack | Backend & Databases | AI & Tools |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=py,java,c,js,r&theme=dark" /><br/>**Languages** | <img src="https://skillicons.dev/icons?i=mysql,git,github,azure&theme=dark" /><br/>**Data & Cloud** | <img src="https://skillicons.dev/icons?i=vscode,linux&theme=dark" /><br/>**Ecosystem** |
-
-</div>
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-</div>
-
----
-
-## GitHub Analytics
-
-Consistency and tracking my coding habits are important to me. Here is a snapshot of my GitHub activity:
-
-<div align="center">
-
-<!-- GitHub General Stats -->
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=radhepatel55&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true" /> -->
-<!-- Top Languages -->
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=58A6FF&text_color=c9d1d9&langs_count=6" /> -->
-
-<!-- GitHub General Stats -->
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=radhepatel55&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
-<!-- Top Languages -->
-<!-- <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&hide_border=false&border_color=30363d&bg_color=161b22&title_color=58A6FF&text_color=c9d1d9&langs_count=6" /> -->
-
-<!-- <br/><br/> -->
-
-<!-- GitHub Streak -->
-<img height="165" src="https://streak-stats.demolab.com/?user=radhepatel55&theme=tokyonight&hide_border=false&border=30363d&background=161b22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
-<br/><br/>
-
-<!--Contribution Graph-->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=radhepatel55&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=161b22&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph" />
-</div>
-
----
-
-## Certifications
-
-🔐 Secret Security Clearance (2024) · 🇫🇷 French DELF B2 (2022) · 🥇 Carleton Technology & Computer Science Dept. Award of Excellence (2022)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
