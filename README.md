@@ -97,3 +97,9 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 </div>
 
 ---
+
+## Certifications
+
+🔐 Secret Security Clearance (2024) · 🇫🇷 French DELF B2 (2022) · 🥇 Carleton Technology & Computer Science Dept. Award of Excellence (2022)
+
+---
