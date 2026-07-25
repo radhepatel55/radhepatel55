@@ -14,15 +14,9 @@
 
 ## 🧠 About Me
 
-I'm a fourth-year Software Engineering student at **Carleton University** (Expected Graduation: April 2027), with experience across 4 **Government of Canada** co-ops in data analysis, data engineering, and enterprise software systems.
+I'm a fourth-year Software Engineering student at **Carleton University** (Expected Graduation: April 2027), with experience at Immigration, Refugees and Citizenship Canada, Department of National Defence, Shared Services Canada, and Treasury Board of Canada Secretariat.
 
 I specialize in **efficient data cleaning** and **data-driven solutions** — automating financial reporting, standing up Power BI dashboards, and delivering production-ready cleaned data.
-
-- 🎓 B.Eng (Software), Carleton University — Expected April 2027
-- 🔐 Holds a Secret Security Clearance
-- 💼 Currently a Data Solutions Engineer Intern at Immigration, Refugees and Citizenship Canada — 4 GoC co-ops total
-- 🌱 Currently deepening my knowledge of Azure Data Factory, Databricks, and Snowflake
-- 💬 Ask me about Python automation, data pipelines, or programming in Java or C
 
 ---
 
