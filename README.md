@@ -2,7 +2,7 @@
 
 # Hi, I'm Radhe Patel 👋
 
-### Software Engineering Student @ Carleton University • Data Engineering and Data Analysis
+### Software Engineering Student @ Carleton University • Data Engineering & Data Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-patelradhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelradhe/)
 [![Location](https://img.shields.io/badge/Ottawa-Canada-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -14,27 +14,15 @@
 
 ## 🧠 About Me
 
-I'm a fourth year Software Engineering student at **Carleton University** (Expected Graduation: April 2027) with hands-on experience across 4 **Government of Canada** co-ops, working on data analysis, data engineering, and enterprise software systems.
+I'm a fourth-year Software Engineering student at **Carleton University** (Expected Graduation: April 2027), with experience across 4 **Government of Canada** co-ops in data analysis, data engineering, and enterprise software systems.
 
-I specialize in building **efficient data cleaning** and **data-driven solutions** by automating financial reporting, stand up Power BI dashboards, and delivering cleaned data for production.
+I specialize in **efficient data cleaning** and **data-driven solutions** — automating financial reporting, standing up Power BI dashboards, and delivering production-ready cleaned data.
 
 - 🎓 B.Eng (Software), Carleton University — Expected April 2027
 - 🔐 Holds a Secret Security Clearance
-- 🌱 Currently deepening my knowledge on Azure Data Factory, Databricks, and Snowflake
+- 💼 Currently a Data Solutions Engineer Intern at Immigration, Refugees and Citizenship Canada — 4 GoC co-ops total
+- 🌱 Currently deepening my knowledge of Azure Data Factory, Databricks, and Snowflake
 - 💬 Ask me about Python automation, data pipelines, or programming in Java or C
-
----
-
-## 💼 Experience
-**Data Solutions Engineer Intern** — Immigration, Refugees and Citizenship Canada · *May 2026 – Present*
-
-**Airworthiness Cyber Security Intern** — Department of National Defence · *Sept 2024 – April 2026*
-
-**Data Analysis / Visualization Intern** — Shared Services Canada · *Oct 2024 – Jan 2025*
-
-**Data Analysis Intern** — Treasury Board of Canada Secretariat · *May 2024 – Aug 2024*
-
-**Computer Architect Intern** — Shared Services Canada · *May 2023 – Aug 2023*
 
 ---
 
@@ -73,17 +61,25 @@ I specialize in building **efficient data cleaning** and **data-driven solutions
 
 ## 🚀 Selected Projects
 
-### 📊 OCA 
+### 📊 OCA Accounting Report Database
+Python system automating financial data processing across **12+ Excel sources**.
+- Built with Pandas and NumPy to structure and validate financial data workflows
+- Debugged and tested data pipelines in Shell to ensure reporting accuracy
+- Used Matplotlib to visualize yearly financial trends, easing decision-making
 
 **Stack:** Python · Spyder · Pandas · NumPy · Matplotlib
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
-### 💬 Text
+### 💬 Text-Based Social Media Platform
+Client-server system in **C** supporting real-time messaging and user interaction.
+- Implemented linked lists and manual memory management
+- Simulated real-world networked communication systems
 
 **Stack:** C · Client-Server Architecture · Systems Programming
 
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
 ---
 
 ## 📊 GitHub Stats
@@ -99,11 +95,18 @@ I specialize in building **efficient data cleaning** and **data-driven solutions
 
 ---
 
+## 🏆 Certifications
+
+🔐 Secret Security Clearance (2024) · 🇫🇷 French DELF B2 (2022) · 🥇 Carleton Technology & Computer Science Dept. Award of Excellence (2022)
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-Radhe%20Patel-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patelradhe/)
+[![Email](https://img.shields.io/badge/-radhe.v.patel555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhe.v.patel555@gmail.com)
 
 </div>
 
