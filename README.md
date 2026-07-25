@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Radhe%20Patel&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:58A6FF&height=250&section=header&text=Radhe%20Patel&fontSize=80&fontColor=0A66C2&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=1F2937">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Radhe%20Patel&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=C9D1D9" alt="Radhe Patel" />
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8E54E9&height=200&section=header&animation=twinkling"> <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,50:66A6FF,100:8E54E9&height=200&section=header&animation=twinkling"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8E54E9&height=200&section=header&animation=twinkling" alt="" /> </picture> <div align="center">
 
 <div align="center">
 
