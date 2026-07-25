@@ -5,6 +5,7 @@
 ### Software Engineering Student @ Carleton University • Data Engineering & Data Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-patelradhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelradhe/)
+[![Email](https://img.shields.io/badge/-radhe.v.patel555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhe.v.patel555@gmail.com)
 [![Location](https://img.shields.io/badge/Ottawa-Canada-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Clearance](https://img.shields.io/badge/Security%20Clearance-Secret-black?style=for-the-badge&logo=shield&logoColor=white)](#)
 
@@ -84,17 +85,6 @@ Client-server system in **C** supporting real-time messaging and user interactio
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&hide_border=true" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhepatel55&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-Radhe%20Patel-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patelradhe/)
-[![Email](https://img.shields.io/badge/-radhe.v.patel555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhe.v.patel555@gmail.com)
 
 </div>
 
