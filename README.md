@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=55&descSize=17&descColor=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:58A6FF&height=200&section=header&text=Radhe%20Patel&fontSize=48&fontColor=0A66C2&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=55&descSize=17&descColor=1F2937">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=48&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=55&descSize=17&descColor=C9D1D9" alt="Radhe Patel" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Radhe%20Patel&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:58A6FF&height=250&section=header&text=Radhe%20Patel&fontSize=80&fontColor=0A66C2&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=1F2937">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=250&section=header&text=Radhe%20Patel&fontSize=80&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20%7C%20Data%20Analysis%20%7C%20Cybersecurity&descAlignY=60&descSize=18&descColor=C9D1D9" alt="Radhe Patel" />
 </picture>
 
 <div align="center">
@@ -110,43 +110,18 @@ Built a Python (Spyder) database automating imports from 12 Excel files, improvi
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 OCA Accounting Report Database
-Python system automating financial data processing across **12+ Excel sources**.
-- Built with Pandas and NumPy to structure and validate financial data workflows
-- Debugged and tested data pipelines in Shell to ensure reporting accuracy
-- Used Matplotlib to visualize yearly financial trends, easing decision-making
-
-**Stack:** Python · Spyder · Pandas · NumPy · Matplotlib
-
-### 💬 Text-Based Social Media Platform
-Client-server system in **C** supporting real-time messaging and user interaction.
-- Implemented linked lists and manual memory management
-- Simulated real-world networked communication systems
-
-**Stack:** C · Client-Server Architecture · Systems Programming
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=radhepatel55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=radhepatel55&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=radical&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com/?user=radhepatel55&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img src="https://streak-stats.demolab.com/?user=radhepatel55&theme=radical&hide_border=true" />
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=radhepatel55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=radhepatel55&theme=radical&hide_border=true" alt="Activity Graph" />
 
 </div>
-
----
-
-## 🏆 Certifications & Awards
-
-🔐 Secret Security Clearance (2024) &nbsp;·&nbsp; 🇫🇷 French DELF B2 (2022) &nbsp;·&nbsp; 🥇 Carleton Technology & Computer Science Dept. Award of Excellence (2022)
 
 ---
 
