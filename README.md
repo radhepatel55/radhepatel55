@@ -54,29 +54,6 @@ I specialize in **efficient data cleaning** and **data-driven solutions** — au
 
 ---
 
-## 🚀 Selected Projects
-
-### 📊 OCA Accounting Report Database
-Python system automating financial data processing across **12+ Excel sources**.
-- Built with Pandas and NumPy to structure and validate financial data workflows
-- Debugged and tested data pipelines in Shell to ensure reporting accuracy
-- Used Matplotlib to visualize yearly financial trends, easing decision-making
-
-**Stack:** Python · Spyder · Pandas · NumPy · Matplotlib
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO)
-
-### 💬 Text-Based Social Media Platform
-Client-server system in **C** supporting real-time messaging and user interaction.
-- Implemented linked lists and manual memory management
-- Simulated real-world networked communication systems
-
-**Stack:** C · Client-Server Architecture · Systems Programming
-
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/YOUR_REPO)
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
