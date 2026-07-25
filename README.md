@@ -118,9 +118,6 @@ Built a Python (Spyder) database automating imports from 12 Excel files, improvi
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=radhepatel55&theme=radical&hide_border=true" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=radhepatel55&theme=radical&hide_border=true" alt="Activity Graph" />
-
 </div>
 
 ---
