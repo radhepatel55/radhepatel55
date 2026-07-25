@@ -29,6 +29,8 @@ I care about turning messy, inconsistent data into clean systems people can actu
 
 ## 💼 Experience
 
+<div align="center">
+  
 | Role | Company | Dates |
 |---|---|---|
 | Data Solutions Engineer Intern | Immigration, Refugees and Citizenship Canada | May 2026 – Present |
@@ -75,10 +77,7 @@ I care about turning messy, inconsistent data into clean systems people can actu
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=radhepatel55&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=radical&hide_border=true" />
-
+  
 <img src="https://streak-stats.demolab.com/?user=radhepatel55&theme=radical&hide_border=true" />
 
 </div>
