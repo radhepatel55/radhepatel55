@@ -29,51 +29,13 @@ I care about turning messy, inconsistent data into clean systems people can actu
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td valign="top" width="130"><b>May 2026 –<br/>Present</b></td>
-<td>
-
-**Data Solutions Engineer Intern** · Immigration, Refugees and Citizenship Canada
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Sept 2024 –<br/>April 2026</b></td>
-<td>
-
-**Airworthiness Cyber Security Intern** · Department of National Defence
-Reviewed airworthiness protocols and databases for international compliance, identifying security gaps and recommending fixes. Competed in multiple CTF competitions covering metadata forensics, Florence-2, and reverse engineering.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>Oct 2024 –<br/>Jan 2025</b></td>
-<td>
-
-**Data Analysis / Visualization Intern** · Shared Services Canada
-Built 10+ interactive Power BI reports for the ITSM ticketing system, improving decision-making speed by **~75%**. Head developer/tester on an Agile PowerApp ticketing system, driving **~90%** efficiency gains through sprint planning, development, and UAT.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>May 2024 –<br/>Aug 2024</b></td>
-<td>
-
-**Data Analysis Intern** · Treasury Board of Canada Secretariat
-Built a Python (Spyder) database automating imports from 12 Excel files, improving data management efficiency by **~95%**. Wrote custom Python functions to extract tables from PDFs, improving data accessibility by **~75%**.
-
-</td>
-</tr>
-<tr>
-<td valign="top"><b>May 2023 –<br/>Aug 2023</b></td>
-<td>
-
-**Computer Architect Intern** · Shared Services Canada
-
-</td>
-</tr>
-</table>
+| Role | Company | Dates |
+|---|---|---|
+| Data Solutions Engineer Intern | Immigration, Refugees and Citizenship Canada | May 2026 – Present |
+| Airworthiness Cyber Security Intern | Department of National Defence | Sept 2024 – April 2026 |
+| Data Analysis / Visualization Intern | Shared Services Canada | Oct 2024 – Jan 2025 |
+| Data Analysis Intern | Treasury Board of Canada Secretariat | May 2024 – Aug 2024 |
+| Computer Architect Intern | Shared Services Canada | May 2023 – Aug 2023 |
 
 ---
 
@@ -118,6 +80,7 @@ Built a Python (Spyder) database automating imports from 12 Excel files, improvi
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=radical&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=radhepatel55&theme=radical&hide_border=true" />
+
 </div>
 
 ---
