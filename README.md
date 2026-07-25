@@ -1,8 +1,8 @@
 <!-- Header Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
-  <img width="100%" src="banner.svg?v=1" alt="Radhe Patel — Data Engineering & Analysis" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:58A6FF&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=0A66C2&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=1F2937">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=C9D1D9" alt="Radhe Patel — Data Engineering & Analysis" />
 </picture>
 
 <div align="center">
@@ -26,7 +26,7 @@
 
 <div display=flex >
 <div>
-<img src="lanyard.svg?v=1" width="200" align="right" alt="Radhe Patel developer ID badge" />
+<img src="https://github.com/radhepatel55.png" width="200" align="right" alt="Radhe Patel" style="border-radius: 12px;" />
 </div>
 <div>
 
