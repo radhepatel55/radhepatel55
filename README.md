@@ -35,6 +35,7 @@ I specialize in building **efficient data cleaning** and **data-driven solutions
 **Data Analysis Intern** — Treasury Board of Canada Secretariat · *May 2024 – Aug 2024*
 
 **Computer Architect Intern** — Shared Services Canada · *May 2023 – Aug 2023*
+
 ---
 
 ## 🛠️ Tech Stack
