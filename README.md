@@ -1,63 +1,83 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=C9D1D9">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:58A6FF&height=200&section=header&text=Radhe%20Patel&fontSize=50&fontColor=0A66C2&animation=fadeIn&fontAlignY=35&desc=Data%20Engineering%20%26%20Analysis&descAlignY=55&descSize=20&descColor=1F2937" alt="Radhe Patel — Data Engineering & Analysis" />
+</picture>
+
 <div align="center">
+<br/>
 
-# Hi, I'm Radhe Patel 👋
-
-### Software Engineering Student @ Carleton University • Data Engineering & Data Analysis
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-patelradhe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelradhe/)
-[![Email](https://img.shields.io/badge/-radhe.v.patel555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhe.v.patel555@gmail.com)
-[![Location](https://img.shields.io/badge/Ottawa-Canada-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Clearance](https://img.shields.io/badge/Security%20Clearance-Secret-black?style=for-the-badge&logo=shield&logoColor=white)](#)
+<!-- Contact Links -->
+<a href="https://www.linkedin.com/in/patelradhe/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=%23ffffff" alt="LinkedIn" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:radhe.v.patel555@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=%23ffffff" alt="Email" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/radhepatel55" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=%23ffffff" alt="GitHub" height="45"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a fourth-year Software Engineering student at **Carleton University** (Expected Graduation: April 2027), with experience at Immigration, Refugees and Citizenship Canada, Department of National Defence, Shared Services Canada, and Treasury Board of Canada Secretariat.
+> $\color{#58A6FF}\textbf{\textsf{Turning messy data into clean, decision-ready systems.}}$
 
-I specialize in **efficient data cleaning** and **data-driven solutions** — automating financial reporting, standing up Power BI dashboards, and delivering production-ready cleaned data.
+I am a $\color{#58A6FF}\textbf{\textsf{Software Engineering student}}$ at Carleton University (4th year, expected graduation April 2027), currently working as a $\color{#58A6FF}\textbf{\textsf{Data Solutions Engineer Intern}}$ at Immigration, Refugees and Citizenship Canada. Across 4 Government of Canada co-ops, I've specialized in data cleaning, automation, and building dashboards that people actually use to make decisions.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Frameworks**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-F4A81D?style=flat-square&logo=autodesk&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=scrumalliance&logoColor=white)
+- $\color{#58A6FF}\textbf{\textsf{Currently building:}}$ Automated data pipelines and Power BI dashboards for production reporting.
+- $\color{#58A6FF}\textbf{\textsf{Leveling up on:}}$ Azure Data Factory, Databricks, and Snowflake.
+- $\color{#58A6FF}\textbf{\textsf{Open to:}}$ Data Engineering / Data Analysis internships and new-grad roles.
+- $\color{#58A6FF}\textbf{\textsf{Fun fact:}}$ I've automated away more Excel busywork than I can count — and I'm not done yet.
 
 ---
 
-## 📊 GitHub Stats
-
----
+## Tech Stack & Tools
 
 <div align="center">
-<sub>Built with ☕ and a lot of debugging • Ottawa, Canada</sub>
+
+| Languages | Data & BI | Ecosystem |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=py,java,c,js,r&theme=dark" /><br/>**Languages** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)<br/>**Data & BI** | <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,linux,mysql&theme=dark" /><br/>**Ecosystem** |
+
 </div>
+
+---
+
+## Top Featured Projects
+
+A few projects that highlight my focus on **data automation** and **systems programming**.
+
+<div align="center">
+
+| <a href="https://github.com/radhepatel55/YOUR_REPO"><img src="https://github-stats-extended.vercel.app/api/pin/?username=radhepatel55&repo=YOUR_REPO&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&v=1" /></a> | <a href="https://github.com/radhepatel55/YOUR_REPO_2"><img src="https://github-stats-extended.vercel.app/api/pin/?username=radhepatel55&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&v=1" /></a> |
+| :---: | :---: |
+
+</div>
+
+---
+
+## GitHub Analytics
+
+Consistency and tracking my coding habits matter to me. Here's a snapshot of my GitHub activity:
+
+<div align="center">
+
+<!-- GitHub General Stats -->
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=radhepatel55&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img height="165" src="https://streak-stats.demolab.com/?user=radhepatel55&theme=tokyonight&hide_border=false&border=30363d&background=161b22&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+<br/><br/>
+
+<!-- Contribution Graph -->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=radhepatel55&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=161b22&color=58A6FF&line=58A6FF&point=ffffff" alt="Activity Graph" />
+
+</div>
+
+---
