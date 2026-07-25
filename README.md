@@ -55,7 +55,6 @@ I specialize in **efficient data cleaning** and **data-driven solutions** — au
 ---
 
 ## 📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=radhepatel55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhepatel55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=radhepatel55&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=radhepatel55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="100%" /> </div>
 
 ---
 
