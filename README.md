@@ -1,16 +1,32 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8E54E9&height=200&section=header&animation=twinkling"> <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:89F7FE,50:66A6FF,100:8E54E9&height=200&section=header&animation=twinkling"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:8E54E9&height=200&section=header&animation=twinkling" alt="" /> </picture> <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=200&section=header&animation=fadeIn&reversal=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,50:00C9FF,100:141E30&height=200&section=header&animation=fadeIn&reversal=true">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=200&section=header&animation=fadeIn&reversal=true" alt="" />
+</picture>
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Radhe+Patel)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Software+Engineering+Student)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Data+Analysis;Building+Automated+Data+Pipelines;Secret+Security+Clearance+Holder;Carleton+University+%E2%80%94+Class+of+2027)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelradhe/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhe.v.patel555@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/radhepatel55)
 
-</div>
+</div> <br/>
 
-<br/>
+<div align="center">
+  
+## 🧠 About Me 
 
-## 🧠 About Me
+</div> 
 
 I'm a fourth-year Software Engineering student at **Carleton University**, graduating April 2027. Over four **Government of Canada** co-ops, I've built a track record in data engineering, data analysis, and cybersecurity — work that's also earned me a **Secret Security Clearance**.
 
@@ -22,7 +38,8 @@ I care about turning messy, inconsistent data into clean systems people can actu
 - 🔐 **Clearance:** Secret Security Clearance (2024)
 
 ---
-
+<div align="center">
+  
 ## 💼 Experience
 
 <div align="center">
@@ -67,16 +84,6 @@ I care about turning messy, inconsistent data into clean systems people can actu
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F4A81D?style=flat-square&logo=autodesk&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://streak-stats.demolab.com/?user=radhepatel55&theme=radical&hide_border=true" />
-
-</div>
 
 ---
 
