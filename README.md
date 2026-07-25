@@ -95,12 +95,6 @@ Client-server system in **C** supporting real-time messaging and user interactio
 
 ---
 
-## 🏆 Certifications
-
-🔐 Secret Security Clearance (2024) · 🇫🇷 French DELF B2 (2022) · 🥇 Carleton Technology & Computer Science Dept. Award of Excellence (2022)
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
