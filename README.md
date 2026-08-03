@@ -30,7 +30,7 @@
 
 I'm a fourth-year Software Engineering student at **Carleton University**, graduating April 2027. Over four co-ops with Immigration, Refugees and Citizenship Canada, Department of National Defense, Shared Services Canada, and Treasury Board of Canada Secretariat, I've built a track record in data engineering, data analysis, and a little bit in cybersecurity.
 
-I care about turning messy, inconsistent data into clean systems people can actually trust, understand and act on: automated pipelines, dashboards that get used, and code that holds up under review.
+I care about turning messy, inconsistent data into clean systems people can actually trust, understand and act on: automated pipelines, dashboards that get used, and reliable code.
 
 - 🔭 **Currently:** Data Solutions Engineer Intern @ Immigration, Refugees and Citizenship Canada
 - 🌱 **Learning:** Azure Data Factory, Databricks, Snowflake
